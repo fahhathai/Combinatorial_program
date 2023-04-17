@@ -1,0 +1,3 @@
+O=C(O[C@@]2([H])CO[C@@]1([H])OCC[C@@]12[H])N[C@@]([H])(CC=3C=CC=CC=3)[C@@](O)([H])CN(CCCCC=4C=CC=CC=4)[S](=O)(=O)C=5C=CC(N)=CC=5 B1
+O=C(O[C@@]2([H])CO[C@@]1([H])OCC[C@@]12[H])N[C@@]([H])(CC=3C=CC=CC=3)[C@@](O)([H])CN(CCC=4C=CC([Cl])=CC=4)[S](=O)(=O)C=5C=CC(N)=CC=5 B2
+O=C(O[C@@]2([H])CO[C@@]1([H])OCC[C@@]12[H])N[C@@]([H])(CC=3C=CC=CC=3)[C@@](O)([H])CN(CC(=O)O)[S](=O)(=O)C=4C=CC(N)=CC=4 B3
